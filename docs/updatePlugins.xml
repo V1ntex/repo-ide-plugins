@@ -1,5 +1,6 @@
 <plugins>
     <plugin id="org.arhont.intellij.thrift" url="https://plugins.openide.ru/files?path=plugins%2Fthrift-syntax-fork%2F2.1.0%2Fthrift.zip" version="2.1.0">
         <name>Thrift Support(fork)</name>
+        <description>Thrift language support for IntelliJ IDEA (repo by V1ntex)</description>
     </plugin>
 </plugins>
