@@ -2,4 +2,7 @@
     <plugin id="org.arhont.intellij.thrift" url="https://plugins.openide.ru/files?path=plugins%2Fthrift-syntax-fork%2F2.1.0%2Fthrift.zip" version="2.1.0">
         <name>Thrift Support (fork) [V1ntex]</name>
     </plugin>
+    <plugin id="com.xstudio.com.xstudio.plugin.idea" url="https://plugins.openide.ru/files?path=plugins%2Fcom.xstudio.com.xstudio.plugin.idea%2F1.0.19%2Fjava___spring_tool-1.0.19.zip" version="1.0.19">
+        <name>Spring & Java Tools [V1ntex]</name>
+    </plugin>
 </plugins>
