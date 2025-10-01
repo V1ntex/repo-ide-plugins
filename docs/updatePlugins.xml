@@ -1,10 +1,5 @@
 <plugins>
-    <plugin id="org.arhont.intellij.thrift" 
-            url="https://github.com/arhont375/intellij-thrift/releases/download/2.1.0/intellij-thrift-2.1.0.zip" 
-            version="2.1.0">
-        <idea-version since-build="211.0" until-build="241.*"/>
+    <plugin id="org.arhont.intellij.thrift" url="https://github.com/arhont375/intellij-thrift/releases/download/2.1.0/intellij-thrift-2.1.0.zip" version="2.1.0">
         <name>Thrift Support(fork)</name>
-        <description>Thrift language support for IntelliJ IDEA</description>
-        <vendor>Arhont</vendor>
     </plugin>
 </plugins>
